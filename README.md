@@ -48,4 +48,12 @@ To run this project locally, ensure you have Python 3.8+ installed on your syste
   streamlit run 4_Web_App.py  
 ```
 
-Author: R3VS3 (Putra) | Information Systems Specialist | Universitas Ciputra
+## Data source
+The dataset used in this project is the Brazilian E-Commerce Public Dataset by Olist.
+
+Source: Kaggle Olist Dataset
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+Processing: Raw transaction logs were cleaned and aggregated to build the master_olist_engineered.csv profile matrix.
+
+## Author: R3VS3 (Putra) | Information Systems for Business | Universitas Ciputra
