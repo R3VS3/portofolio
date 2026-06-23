@@ -47,3 +47,5 @@ To run this project locally, ensure you have Python 3.8+ installed on your syste
 ```bash
   streamlit run 4_Web_App.py  
 ```
+
+Author: R3VS3 (Putra) | Information Systems Specialist | Universitas Ciputra
